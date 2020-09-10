@@ -1,0 +1,14 @@
+ |-------|
+ |       | 
+ |       |
+         |
+         |
+         |
+         |
+         |
+         
+You have 7 more chances to guess the word. Good Luck!
+(Type sq and press enter to save and quit.)
+
+Type a letter and press enter:
+         
